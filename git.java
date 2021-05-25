@@ -1,1 +1,5 @@
-System.out.println("I am in github");
+class A{
+    Public void a(){
+        System.out.println("I am in github");
+    }
+}
